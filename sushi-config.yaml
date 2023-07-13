@@ -39,7 +39,7 @@ publisher:
   name: My Organization 
   url: http://example.com/committees
   email: my-group@example.com
-
+ 
 # ContactDetail is required by the template.
 contact:
   - name: Bob Smith
